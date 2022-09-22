@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hello I'm Ethan!
 
+- 🧿🐝Ⓜ️ I am a Software Developer at IBM
+- ❤️‍🔥🔐 I have a passion for Cybersecurity and full-stack development
+- 📥 You can reach out to me on LinkedIn: https://www.linkedin.com/in/ethanfwalters/
+- 🕸 Check out my website at: https://www.ethanfwalters.com/
+- ⚡️🚗 A fun fact about me is that I love cars
 <!--
 **ethanfwalters/ethanfwalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
